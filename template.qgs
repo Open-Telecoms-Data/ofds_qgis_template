@@ -587,7 +587,7 @@
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -1849,7 +1849,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -1869,7 +1869,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=contracts"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=contracts"/>
                 <Option name="ReferencedLayerId" type="QString" value="contracts_911f0889_2cd7_4997_aa77_3021639cc7dc"/>
                 <Option name="ReferencedLayerName" type="QString" value="contracts"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -7888,7 +7888,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -7908,7 +7908,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=contracts"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=contracts"/>
                 <Option name="ReferencedLayerId" type="QString" value="contracts_911f0889_2cd7_4997_aa77_3021639cc7dc"/>
                 <Option name="ReferencedLayerName" type="QString" value="contracts"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -7928,7 +7928,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=phases"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=phases"/>
                 <Option name="ReferencedLayerId" type="QString" value="phases_8ee858d5_8cdf_4bd0_802e_ca18f63121ba"/>
                 <Option name="ReferencedLayerName" type="QString" value="phases"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -8177,7 +8177,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -9136,7 +9136,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -9173,7 +9173,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=phases"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=phases"/>
                 <Option name="ReferencedLayerId" type="QString" value="phases_8ee858d5_8cdf_4bd0_802e_ca18f63121ba"/>
                 <Option name="ReferencedLayerName" type="QString" value="phases"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -10105,7 +10105,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=organisations"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=organisations"/>
                 <Option name="ReferencedLayerId" type="QString" value="organisations_21efe3a5_2284_426d_9c22_fd495a77ef78"/>
                 <Option name="ReferencedLayerName" type="QString" value="organisations"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -10527,7 +10527,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -10547,7 +10547,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=nodes"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=nodes"/>
                 <Option name="ReferencedLayerId" type="QString" value="nodes_0e9869d4_065a_4ea3_b956_c3bb74ec5629"/>
                 <Option name="ReferencedLayerName" type="QString" value="nodes"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -11620,7 +11620,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -11640,7 +11640,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=nodes"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=nodes"/>
                 <Option name="ReferencedLayerId" type="QString" value="nodes_0e9869d4_065a_4ea3_b956_c3bb74ec5629"/>
                 <Option name="ReferencedLayerName" type="QString" value="nodes"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -11660,7 +11660,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=organisations"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=organisations"/>
                 <Option name="ReferencedLayerId" type="QString" value="organisations_21efe3a5_2284_426d_9c22_fd495a77ef78"/>
                 <Option name="ReferencedLayerName" type="QString" value="organisations"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -11909,7 +11909,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13088,7 +13088,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13361,7 +13361,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13381,7 +13381,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=phases"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=phases"/>
                 <Option name="ReferencedLayerId" type="QString" value="phases_8ee858d5_8cdf_4bd0_802e_ca18f63121ba"/>
                 <Option name="ReferencedLayerName" type="QString" value="phases"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13401,7 +13401,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=organisations"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=organisations"/>
                 <Option name="ReferencedLayerId" type="QString" value="organisations_21efe3a5_2284_426d_9c22_fd495a77ef78"/>
                 <Option name="ReferencedLayerName" type="QString" value="organisations"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13857,7 +13857,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=networks"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=networks"/>
                 <Option name="ReferencedLayerId" type="QString" value="networks_7a23193a_76b5_4be5_b7cd_d60026cad5b8"/>
                 <Option name="ReferencedLayerName" type="QString" value="networks"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13894,7 +13894,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=phases"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=phases"/>
                 <Option name="ReferencedLayerId" type="QString" value="phases_8ee858d5_8cdf_4bd0_802e_ca18f63121ba"/>
                 <Option name="ReferencedLayerName" type="QString" value="phases"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13955,7 +13955,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=nodes"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=nodes"/>
                 <Option name="ReferencedLayerId" type="QString" value="nodes_0e9869d4_065a_4ea3_b956_c3bb74ec5629"/>
                 <Option name="ReferencedLayerName" type="QString" value="nodes"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -13975,7 +13975,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=nodes"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=nodes"/>
                 <Option name="ReferencedLayerId" type="QString" value="nodes_0e9869d4_065a_4ea3_b956_c3bb74ec5629"/>
                 <Option name="ReferencedLayerName" type="QString" value="nodes"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -14006,7 +14006,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=organisations"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=organisations"/>
                 <Option name="ReferencedLayerId" type="QString" value="organisations_21efe3a5_2284_426d_9c22_fd495a77ef78"/>
                 <Option name="ReferencedLayerName" type="QString" value="organisations"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -14026,7 +14026,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=organisations"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=organisations"/>
                 <Option name="ReferencedLayerId" type="QString" value="organisations_21efe3a5_2284_426d_9c22_fd495a77ef78"/>
                 <Option name="ReferencedLayerName" type="QString" value="organisations"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -15496,7 +15496,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=spans"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=spans"/>
                 <Option name="ReferencedLayerId" type="QString" value="spans_e5dd384f_30da_4801_ba33_f0dc8003d07d"/>
                 <Option name="ReferencedLayerName" type="QString" value="spans"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
@@ -15516,7 +15516,7 @@ def my_form_open(dialog, layer, feature):
                 <Option name="MapIdentification" type="bool" value="false"/>
                 <Option name="OrderByValue" type="bool" value="false"/>
                 <Option name="ReadOnly" type="bool" value="false"/>
-                <Option name="ReferencedLayerDataSource" type="QString" value="/mnt/9E863086863060C7/GDrive/Work/Repositories/open_fibre/ofds_qgis_template/data.gpkg|layername=organisations"/>
+                <Option name="ReferencedLayerDataSource" type="QString" value="./template.gpkg|layername=organisations"/>
                 <Option name="ReferencedLayerId" type="QString" value="organisations_21efe3a5_2284_426d_9c22_fd495a77ef78"/>
                 <Option name="ReferencedLayerName" type="QString" value="organisations"/>
                 <Option name="ReferencedLayerProviderKey" type="QString" value="ogr"/>
